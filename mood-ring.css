@@ -1,0 +1,53 @@
+body{
+	background: linear-gradient(#689FF7, #51CEAA);
+	background: -moz-linear-gradient(#689FF7, #51CEAA);
+	background: -o-linear-gradient(#689FF7, #51CEAA);
+	background: -webkit-linear-gradient(#689FF7, #51CEAA);
+	color:white;
+	font-family:Proxima Nova;
+	font-size:50px;
+	font-weight:200;
+}
+h1{
+	font-family:Proxima Nova;
+	font-weight:800;
+	font-size:8vw;
+}
+.tagline{
+	font-size:4vw;
+
+}
+/*div{
+	border:solid black 1px;
+}*/
+.navbar-collapse{
+
+}
+#logo{
+	margin-bottom:-3rem;
+}
+#content{
+	margin-top:50px;
+}
+#googleplay{
+}
+#appstore{
+}
+#phone{
+	margin-bottom:;
+	z-index: -1;
+}
+a{
+	text-decoration:none;
+	color:purple;
+}
+a:hover{
+	text-decoration:none;
+	color:purple;
+}
+.bottom{
+	background-color: white;
+	z-index: 1;
+	color:purple;
+	font-size:2vw;
+}
